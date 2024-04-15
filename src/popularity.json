@@ -1,0 +1,3752 @@
+[
+    {
+        "position": 1,
+        "title": "Dune: Part Two",
+        "year": 2024,
+        "length": "2h 46m",
+        "age_rating": "PG-13",
+        "star_rating": 8.7,
+        "number_of_ratings": "\u00a0(338K)",
+        "director": "Denis Villeneuve",
+        "starring": [
+            "Timoth\u00e9e Chalamet",
+            "Zendaya",
+            "Rebecca Ferguson"
+        ]
+    },
+    {
+        "position": 2,
+        "title": "Oppenheimer",
+        "year": 2023,
+        "length": "3h",
+        "age_rating": "R",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(716K)",
+        "director": "Christopher Nolan",
+        "starring": [
+            "Cillian Murphy",
+            "Emily Blunt",
+            "Matt Damon"
+        ]
+    },
+    {
+        "position": 3,
+        "title": "Godzilla Minus One",
+        "year": 2023,
+        "length": "2h 4m",
+        "age_rating": "PG-13",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(48K)",
+        "director": "Takashi Yamazaki",
+        "starring": [
+            "Minami Hamabe",
+            "Sakura And\u00f4",
+            "Ryunosuke Kamiki"
+        ]
+    },
+    {
+        "position": 4,
+        "title": "Interstellar",
+        "year": 2014,
+        "length": "2h 49m",
+        "age_rating": "PG-13",
+        "star_rating": 8.7,
+        "number_of_ratings": "\u00a0(2.1M)",
+        "director": "Christopher Nolan",
+        "starring": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain"
+        ]
+    },
+    {
+        "position": 5,
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "length": "2h 22m",
+        "age_rating": "R",
+        "star_rating": 9.3,
+        "number_of_ratings": "\u00a0(2.9M)",
+        "director": "Frank Darabont",
+        "starring": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton"
+        ]
+    },
+    {
+        "position": 6,
+        "title": "Top Gun: Maverick",
+        "year": 2022,
+        "length": "2h 10m",
+        "age_rating": "PG-13",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(693K)",
+        "director": "Joseph Kosinski",
+        "starring": [
+            "Tom Cruise",
+            "Jennifer Connelly",
+            "Miles Teller"
+        ]
+    },
+    {
+        "position": 7,
+        "title": "The Godfather",
+        "year": 1972,
+        "length": "2h 55m",
+        "age_rating": "R",
+        "star_rating": 9.2,
+        "number_of_ratings": "\u00a0(2M)",
+        "director": "Francis Ford Coppola",
+        "starring": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan"
+        ]
+    },
+    {
+        "position": 8,
+        "title": "The Matrix",
+        "year": 1999,
+        "length": "2h 16m",
+        "age_rating": "R",
+        "star_rating": 8.7,
+        "number_of_ratings": "\u00a0(2M)",
+        "director": "Lana Wachowski",
+        "starring": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss"
+        ]
+    },
+    {
+        "position": 9,
+        "title": "The Dark Knight",
+        "year": 2008,
+        "length": "2h 32m",
+        "age_rating": "PG-13",
+        "star_rating": 9.0,
+        "number_of_ratings": "\u00a0(2.9M)",
+        "director": "Christopher Nolan",
+        "starring": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart"
+        ]
+    },
+    {
+        "position": 10,
+        "title": "Apocalypse Now",
+        "year": 1979,
+        "length": "2h 27m",
+        "age_rating": "R",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(709K)",
+        "director": "Francis Ford Coppola",
+        "starring": [
+            "Martin Sheen",
+            "Marlon Brando",
+            "Robert Duvall"
+        ]
+    },
+    {
+        "position": 11,
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "length": "2h 34m",
+        "age_rating": "R",
+        "star_rating": 8.9,
+        "number_of_ratings": "\u00a0(2.2M)",
+        "director": "Quentin Tarantino",
+        "starring": [
+            "John Travolta",
+            "Uma Thurman",
+            "Samuel L. Jackson"
+        ]
+    },
+    {
+        "position": 12,
+        "title": "Ford v Ferrari",
+        "year": 2019,
+        "length": "2h 32m",
+        "age_rating": "PG-13",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(472K)",
+        "director": "James Mangold",
+        "starring": [
+            "Matt Damon",
+            "Christian Bale",
+            "Jon Bernthal"
+        ]
+    },
+    {
+        "position": 13,
+        "title": "Inception",
+        "year": 2010,
+        "length": "2h 28m",
+        "age_rating": "PG-13",
+        "star_rating": 8.8,
+        "number_of_ratings": "\u00a0(2.5M)",
+        "director": "Christopher Nolan",
+        "starring": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page"
+        ]
+    },
+    {
+        "position": 14,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "length": "2h 58m",
+        "age_rating": "PG-13",
+        "star_rating": 8.9,
+        "number_of_ratings": "\u00a0(2M)",
+        "director": "Peter Jackson",
+        "starring": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Orlando Bloom"
+        ]
+    },
+    {
+        "position": 15,
+        "title": "Mad Max: Fury Road",
+        "year": 2015,
+        "length": "2h",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(1.1M)",
+        "director": "George Miller",
+        "starring": [
+            "Tom Hardy",
+            "Charlize Theron",
+            "Nicholas Hoult"
+        ]
+    },
+    {
+        "position": 16,
+        "title": "The Wolf of Wall Street",
+        "year": 2013,
+        "length": "3h",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(1.6M)",
+        "director": "Martin Scorsese",
+        "starring": [
+            "Leonardo DiCaprio",
+            "Jonah Hill",
+            "Margot Robbie"
+        ]
+    },
+    {
+        "position": 17,
+        "title": "Joker",
+        "year": 2019,
+        "length": "2h 2m",
+        "age_rating": "R",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(1.5M)",
+        "director": "Todd Phillips",
+        "starring": [
+            "Joaquin Phoenix",
+            "Robert De Niro",
+            "Zazie Beetz"
+        ]
+    },
+    {
+        "position": 18,
+        "title": "Gladiator",
+        "year": 2000,
+        "length": "2h 35m",
+        "age_rating": "R",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(1.6M)",
+        "director": "Ridley Scott",
+        "starring": [
+            "Russell Crowe",
+            "Joaquin Phoenix",
+            "Connie Nielsen"
+        ]
+    },
+    {
+        "position": 19,
+        "title": "Fight Club",
+        "year": 1999,
+        "length": "2h 19m",
+        "age_rating": "R",
+        "star_rating": 8.8,
+        "number_of_ratings": "\u00a0(2.3M)",
+        "director": "David Fincher",
+        "starring": [
+            "Brad Pitt",
+            "Edward Norton",
+            "Meat Loaf"
+        ]
+    },
+    {
+        "position": 20,
+        "title": "Spider-Man: Across the Spider-Verse",
+        "year": 2023,
+        "length": "2h 20m",
+        "age_rating": "PG",
+        "star_rating": 8.6,
+        "number_of_ratings": "\u00a0(366K)",
+        "director": "Joaquim Dos Santos",
+        "starring": [
+            "Shameik Moore",
+            "Hailee Steinfeld",
+            "Brian Tyree Henry"
+        ]
+    },
+    {
+        "position": 21,
+        "title": "Ben-Hur",
+        "year": 1959,
+        "length": "3h 32m",
+        "age_rating": "G",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(253K)",
+        "director": "William Wyler",
+        "starring": [
+            "Charlton Heston",
+            "Jack Hawkins",
+            "Stephen Boyd"
+        ]
+    },
+    {
+        "position": 22,
+        "title": "12th Fail",
+        "year": 2023,
+        "length": "2h 27m",
+        "age_rating": "Not Rated",
+        "star_rating": 9.0,
+        "number_of_ratings": "\u00a0(109K)",
+        "director": "Vidhu Vinod Chopra",
+        "starring": [
+            "Vikrant Massey",
+            "Medha Shankr",
+            "Anant Joshi"
+        ]
+    },
+    {
+        "position": 23,
+        "title": "Alien",
+        "year": 1979,
+        "length": "1h 57m",
+        "age_rating": "R",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(949K)",
+        "director": "Ridley Scott",
+        "starring": [
+            "Sigourney Weaver",
+            "Tom Skerritt",
+            "John Hurt"
+        ]
+    },
+    {
+        "position": 24,
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "length": "2h 28m",
+        "age_rating": "PG-13",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(876K)",
+        "director": "Jon Watts",
+        "starring": [
+            "Tom Holland",
+            "Zendaya",
+            "Benedict Cumberbatch"
+        ]
+    },
+    {
+        "position": 25,
+        "title": "Snatch",
+        "year": 2000,
+        "length": "1h 42m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(909K)",
+        "director": "Guy Ritchie",
+        "starring": [
+            "Jason Statham",
+            "Brad Pitt",
+            "Stephen Graham"
+        ]
+    },
+    {
+        "position": 26,
+        "title": "Parasite",
+        "year": 2019,
+        "length": "2h 12m",
+        "age_rating": "R",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(956K)",
+        "director": "Bong Joon Ho",
+        "starring": [
+            "Song Kang-ho",
+            "Lee Sun-kyun",
+            "Cho Yeo-jeong"
+        ]
+    },
+    {
+        "position": 27,
+        "title": "Schindler's List",
+        "year": 1993,
+        "length": "3h 15m",
+        "age_rating": "R",
+        "star_rating": 9.0,
+        "number_of_ratings": "\u00a0(1.4M)",
+        "director": "Steven Spielberg",
+        "starring": [
+            "Liam Neeson",
+            "Ralph Fiennes",
+            "Ben Kingsley"
+        ]
+    },
+    {
+        "position": 28,
+        "title": "Good Will Hunting",
+        "year": 1997,
+        "length": "2h 6m",
+        "age_rating": "R",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(1.1M)",
+        "director": "Gus Van Sant",
+        "starring": [
+            "Robin Williams",
+            "Matt Damon",
+            "Ben Affleck"
+        ]
+    },
+    {
+        "position": 29,
+        "title": "The Silence of the Lambs",
+        "year": 1991,
+        "length": "1h 58m",
+        "age_rating": "R",
+        "star_rating": 8.6,
+        "number_of_ratings": "\u00a0(1.5M)",
+        "director": "Jonathan Demme",
+        "starring": [
+            "Jodie Foster",
+            "Anthony Hopkins",
+            "Scott Glenn"
+        ]
+    },
+    {
+        "position": 30,
+        "title": "Prisoners",
+        "year": 2013,
+        "length": "2h 33m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(808K)",
+        "director": "Denis Villeneuve",
+        "starring": [
+            "Hugh Jackman",
+            "Jake Gyllenhaal",
+            "Viola Davis"
+        ]
+    },
+    {
+        "position": 31,
+        "title": "No Country for Old Men",
+        "year": 2007,
+        "length": "2h 2m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(1.1M)",
+        "director": "Ethan Coen",
+        "starring": [
+            "Tommy Lee Jones",
+            "Javier Bardem",
+            "Josh Brolin"
+        ]
+    },
+    {
+        "position": 32,
+        "title": "Inglourious Basterds",
+        "year": 2009,
+        "length": "2h 33m",
+        "age_rating": "R",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(1.6M)",
+        "director": "Quentin Tarantino",
+        "starring": [
+            "Brad Pitt",
+            "Diane Kruger",
+            "Eli Roth"
+        ]
+    },
+    {
+        "position": 33,
+        "title": "Kill Bill: Vol",
+        "year": 2003,
+        "length": "1h 51m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(1.2M)",
+        "director": "Quentin Tarantino",
+        "starring": [
+            "Uma Thurman",
+            "David Carradine",
+            "Daryl Hannah"
+        ]
+    },
+    {
+        "position": 34,
+        "title": "Forrest Gump",
+        "year": 1994,
+        "length": "2h 22m",
+        "age_rating": "PG-13",
+        "star_rating": 8.8,
+        "number_of_ratings": "\u00a0(2.3M)",
+        "director": "Robert Zemeckis",
+        "starring": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise"
+        ]
+    },
+    {
+        "position": 35,
+        "title": "Goodfellas",
+        "year": 1990,
+        "length": "2h 25m",
+        "age_rating": "R",
+        "star_rating": 8.7,
+        "number_of_ratings": "\u00a0(1.3M)",
+        "director": "Martin Scorsese",
+        "starring": [
+            "Robert De Niro",
+            "Ray Liotta",
+            "Joe Pesci"
+        ]
+    },
+    {
+        "position": 36,
+        "title": "The Prestige",
+        "year": 2006,
+        "length": "2h 10m",
+        "age_rating": "PG-13",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(1.4M)",
+        "director": "Christopher Nolan",
+        "starring": [
+            "Christian Bale",
+            "Hugh Jackman",
+            "Scarlett Johansson"
+        ]
+    },
+    {
+        "position": 37,
+        "title": "Green Book",
+        "year": 2018,
+        "length": "2h 10m",
+        "age_rating": "PG-13",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(569K)",
+        "director": "Peter Farrelly",
+        "starring": [
+            "Viggo Mortensen",
+            "Mahershala Ali",
+            "Linda Cardellini"
+        ]
+    },
+    {
+        "position": 38,
+        "title": "Whiplash",
+        "year": 2014,
+        "length": "1h 46m",
+        "age_rating": "R",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(986K)",
+        "director": "Damien Chazelle",
+        "starring": [
+            "Miles Teller",
+            "J.K. Simmons",
+            "Melissa Benoist"
+        ]
+    },
+    {
+        "position": 39,
+        "title": "Se7en",
+        "year": 1995,
+        "length": "2h 7m",
+        "age_rating": "R",
+        "star_rating": 8.6,
+        "number_of_ratings": "\u00a0(1.8M)",
+        "director": "David Fincher",
+        "starring": [
+            "Morgan Freeman",
+            "Brad Pitt",
+            "Kevin Spacey"
+        ]
+    },
+    {
+        "position": 40,
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": 2003,
+        "length": "2h 23m",
+        "age_rating": "PG-13",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(1.2M)",
+        "director": "Gore Verbinski",
+        "starring": [
+            "Johnny Depp",
+            "Geoffrey Rush",
+            "Orlando Bloom"
+        ]
+    },
+    {
+        "position": 41,
+        "title": "The Departed",
+        "year": 2006,
+        "length": "2h 31m",
+        "age_rating": "R",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(1.4M)",
+        "director": "Martin Scorsese",
+        "starring": [
+            "Leonardo DiCaprio",
+            "Matt Damon",
+            "Jack Nicholson"
+        ]
+    },
+    {
+        "position": 42,
+        "title": "Aliens",
+        "year": 1986,
+        "length": "2h 17m",
+        "age_rating": "R",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(762K)",
+        "director": "James Cameron",
+        "starring": [
+            "Sigourney Weaver",
+            "Michael Biehn",
+            "Carrie Henn"
+        ]
+    },
+    {
+        "position": 43,
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": 2004,
+        "length": "1h 48m",
+        "age_rating": "R",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(1.1M)",
+        "director": "Michel Gondry",
+        "starring": [
+            "Jim Carrey",
+            "Kate Winslet",
+            "Tom Wilkinson"
+        ]
+    },
+    {
+        "position": 44,
+        "title": "Jurassic Park",
+        "year": 1993,
+        "length": "2h 7m",
+        "age_rating": "PG-13",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(1.1M)",
+        "director": "Steven Spielberg",
+        "starring": [
+            "Sam Neill",
+            "Laura Dern",
+            "Jeff Goldblum"
+        ]
+    },
+    {
+        "position": 45,
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "length": "3h 1m",
+        "age_rating": "PG-13",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(1.3M)",
+        "director": "Anthony Russo",
+        "starring": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo"
+        ]
+    },
+    {
+        "position": 46,
+        "title": "L\u00e9on: The Professional",
+        "year": 1994,
+        "length": "1h 50m",
+        "age_rating": "R",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(1.2M)",
+        "director": "Luc Besson",
+        "starring": [
+            "Jean Reno",
+            "Gary Oldman",
+            "Natalie Portman"
+        ]
+    },
+    {
+        "position": 47,
+        "title": "Heat",
+        "year": 1995,
+        "length": "2h 50m",
+        "age_rating": "R",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(718K)",
+        "director": "Michael Mann",
+        "starring": [
+            "Al Pacino",
+            "Robert De Niro",
+            "Val Kilmer"
+        ]
+    },
+    {
+        "position": 48,
+        "title": "Back to the Future",
+        "year": 1985,
+        "length": "1h 56m",
+        "age_rating": "PG",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(1.3M)",
+        "director": "Robert Zemeckis",
+        "starring": [
+            "Michael J. Fox",
+            "Christopher Lloyd",
+            "Lea Thompson"
+        ]
+    },
+    {
+        "position": 49,
+        "title": "American Beauty",
+        "year": 1999,
+        "length": "2h 2m",
+        "age_rating": "R",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(1.2M)",
+        "director": "Sam Mendes",
+        "starring": [
+            "Kevin Spacey",
+            "Annette Bening",
+            "Thora Birch"
+        ]
+    },
+    {
+        "position": 50,
+        "title": "Gone Girl",
+        "year": 2014,
+        "length": "2h 29m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(1.1M)",
+        "director": "David Fincher",
+        "starring": [
+            "Ben Affleck",
+            "Rosamund Pike",
+            "Neil Patrick Harris"
+        ]
+    },
+    {
+        "position": 51,
+        "title": "Django Unchained",
+        "year": 2012,
+        "length": "2h 45m",
+        "age_rating": "R",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(1.7M)",
+        "director": "Quentin Tarantino",
+        "starring": [
+            "Jamie Foxx",
+            "Christoph Waltz",
+            "Leonardo DiCaprio"
+        ]
+    },
+    {
+        "position": 52,
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "length": "3h 21m",
+        "age_rating": "PG-13",
+        "star_rating": 9.0,
+        "number_of_ratings": "\u00a0(2M)",
+        "director": "Peter Jackson",
+        "starring": [
+            "Elijah Wood",
+            "Viggo Mortensen",
+            "Ian McKellen"
+        ]
+    },
+    {
+        "position": 53,
+        "title": "On the Waterfront",
+        "year": 1954,
+        "length": "1h 48m",
+        "age_rating": "Approved",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(165K)",
+        "director": "Elia Kazan",
+        "starring": [
+            "Marlon Brando",
+            "Karl Malden",
+            "Lee J. Cobb"
+        ]
+    },
+    {
+        "position": 54,
+        "title": "Requiem for a Dream",
+        "year": 2000,
+        "length": "1h 42m",
+        "age_rating": "NC-17",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(897K)",
+        "director": "Darren Aronofsky",
+        "starring": [
+            "Ellen Burstyn",
+            "Jared Leto",
+            "Jennifer Connelly"
+        ]
+    },
+    {
+        "position": 55,
+        "title": "The Dark Knight Rises",
+        "year": 2012,
+        "length": "2h 44m",
+        "age_rating": "PG-13",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(1.8M)",
+        "director": "Christopher Nolan",
+        "starring": [
+            "Christian Bale",
+            "Tom Hardy",
+            "Anne Hathaway"
+        ]
+    },
+    {
+        "position": 56,
+        "title": "Once Upon a Time in America",
+        "year": 1984,
+        "length": "3h 49m",
+        "age_rating": "R",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(377K)",
+        "director": "Sergio Leone",
+        "starring": [
+            "Robert De Niro",
+            "James Woods",
+            "Elizabeth McGovern"
+        ]
+    },
+    {
+        "position": 57,
+        "title": "The Godfather Part II",
+        "year": 1974,
+        "length": "3h 22m",
+        "age_rating": "R",
+        "star_rating": 9.0,
+        "number_of_ratings": "\u00a0(1.4M)",
+        "director": "Francis Ford Coppola",
+        "starring": [
+            "Al Pacino",
+            "Robert De Niro",
+            "Robert Duvall"
+        ]
+    },
+    {
+        "position": 58,
+        "title": "Blade Runner",
+        "year": 1982,
+        "length": "1h 57m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(822K)",
+        "director": "Ridley Scott",
+        "starring": [
+            "Harrison Ford",
+            "Rutger Hauer",
+            "Sean Young"
+        ]
+    },
+    {
+        "position": 59,
+        "title": "The Green Mile",
+        "year": 1999,
+        "length": "3h 9m",
+        "age_rating": "R",
+        "star_rating": 8.6,
+        "number_of_ratings": "\u00a0(1.4M)",
+        "director": "Frank Darabont",
+        "starring": [
+            "Tom Hanks",
+            "Michael Clarke Duncan",
+            "David Morse"
+        ]
+    },
+    {
+        "position": 60,
+        "title": "Taxi Driver",
+        "year": 1976,
+        "length": "1h 54m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(919K)",
+        "director": "Martin Scorsese",
+        "starring": [
+            "Robert De Niro",
+            "Jodie Foster",
+            "Cybill Shepherd"
+        ]
+    },
+    {
+        "position": 61,
+        "title": "Shutter Island",
+        "year": 2010,
+        "length": "2h 18m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(1.5M)",
+        "director": "Martin Scorsese",
+        "starring": [
+            "Leonardo DiCaprio",
+            "Emily Mortimer",
+            "Mark Ruffalo"
+        ]
+    },
+    {
+        "position": 62,
+        "title": "12 Angry Men",
+        "year": 1957,
+        "length": "1h 36m",
+        "age_rating": "Approved",
+        "star_rating": 9.0,
+        "number_of_ratings": "\u00a0(863K)",
+        "director": "Sidney Lumet",
+        "starring": [
+            "Henry Fonda",
+            "Lee J. Cobb",
+            "Martin Balsam"
+        ]
+    },
+    {
+        "position": 63,
+        "title": "Star Wars: Episode IV - A New Hope",
+        "year": 1977,
+        "length": "2h 1m",
+        "age_rating": "PG",
+        "star_rating": 8.6,
+        "number_of_ratings": "\u00a0(1.4M)",
+        "director": "George Lucas",
+        "starring": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher"
+        ]
+    },
+    {
+        "position": 64,
+        "title": "Oldboy",
+        "year": 2003,
+        "length": "2h",
+        "age_rating": "R",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(634K)",
+        "director": "Park Chan-wook",
+        "starring": [
+            "Choi Min-sik",
+            "Yoo Ji-tae",
+            "Kang Hye-jeong"
+        ]
+    },
+    {
+        "position": 65,
+        "title": "Batman Begins",
+        "year": 2005,
+        "length": "2h 20m",
+        "age_rating": "PG-13",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(1.6M)",
+        "director": "Christopher Nolan",
+        "starring": [
+            "Christian Bale",
+            "Michael Caine",
+            "Ken Watanabe"
+        ]
+    },
+    {
+        "position": 66,
+        "title": "Memento",
+        "year": 2000,
+        "length": "1h 53m",
+        "age_rating": "R",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(1.3M)",
+        "director": "Christopher Nolan",
+        "starring": [
+            "Guy Pearce",
+            "Carrie-Anne Moss",
+            "Joe Pantoliano"
+        ]
+    },
+    {
+        "position": 67,
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "year": 2011,
+        "length": "2h 10m",
+        "age_rating": "PG-13",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(947K)",
+        "director": "David Yates",
+        "starring": [
+            "Daniel Radcliffe",
+            "Emma Watson",
+            "Rupert Grint"
+        ]
+    },
+    {
+        "position": 68,
+        "title": "The Wizard of Oz",
+        "year": 1939,
+        "length": "1h 42m",
+        "age_rating": "G",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(428K)",
+        "director": "Victor Fleming",
+        "starring": [
+            "Judy Garland",
+            "Frank Morgan",
+            "Ray Bolger"
+        ]
+    },
+    {
+        "position": 69,
+        "title": "The Usual Suspects",
+        "year": 1995,
+        "length": "1h 46m",
+        "age_rating": "R",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(1.1M)",
+        "director": "Bryan Singer",
+        "starring": [
+            "Kevin Spacey",
+            "Gabriel Byrne",
+            "Chazz Palminteri"
+        ]
+    },
+    {
+        "position": 70,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": 1975,
+        "length": "2h 13m",
+        "age_rating": "R",
+        "star_rating": 8.7,
+        "number_of_ratings": "\u00a0(1.1M)",
+        "director": "Milos Forman",
+        "starring": [
+            "Jack Nicholson",
+            "Louise Fletcher",
+            "Michael Berryman"
+        ]
+    },
+    {
+        "position": 71,
+        "title": "Spirited Away",
+        "year": 2001,
+        "length": "2h 5m",
+        "age_rating": "PG",
+        "star_rating": 8.6,
+        "number_of_ratings": "\u00a0(847K)",
+        "director": "Hayao Miyazaki",
+        "starring": [
+            "Daveigh Chase",
+            "Suzanne Pleshette",
+            "Miyu Irino"
+        ]
+    },
+    {
+        "position": 72,
+        "title": "The Shining",
+        "year": 1980,
+        "length": "2h 26m",
+        "age_rating": "R",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(1.1M)",
+        "director": "Stanley Kubrick",
+        "starring": [
+            "Jack Nicholson",
+            "Shelley Duvall",
+            "Danny Lloyd"
+        ]
+    },
+    {
+        "position": 73,
+        "title": "The Truman Show",
+        "year": 1998,
+        "length": "1h 43m",
+        "age_rating": "PG",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(1.2M)",
+        "director": "Peter Weir",
+        "starring": [
+            "Jim Carrey",
+            "Ed Harris",
+            "Laura Linney"
+        ]
+    },
+    {
+        "position": 74,
+        "title": "Catch Me If You Can",
+        "year": 2002,
+        "length": "2h 21m",
+        "age_rating": "PG-13",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(1.1M)",
+        "director": "Steven Spielberg",
+        "starring": [
+            "Leonardo DiCaprio",
+            "Tom Hanks",
+            "Christopher Walken"
+        ]
+    },
+    {
+        "position": 75,
+        "title": "The Lion King",
+        "year": 1994,
+        "length": "1h 28m",
+        "age_rating": "G",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(1.1M)",
+        "director": "Roger Allers",
+        "starring": [
+            "Matthew Broderick",
+            "Jeremy Irons",
+            "James Earl Jones"
+        ]
+    },
+    {
+        "position": 76,
+        "title": "Terminator 2: Judgment Day",
+        "year": 1991,
+        "length": "2h 17m",
+        "age_rating": "R",
+        "star_rating": 8.6,
+        "number_of_ratings": "\u00a0(1.2M)",
+        "director": "James Cameron",
+        "starring": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton",
+            "Edward Furlong"
+        ]
+    },
+    {
+        "position": 77,
+        "title": "Stand by Me",
+        "year": 1986,
+        "length": "1h 29m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(441K)",
+        "director": "Rob Reiner",
+        "starring": [
+            "Wil Wheaton",
+            "River Phoenix",
+            "Corey Feldman"
+        ]
+    },
+    {
+        "position": 78,
+        "title": "Saving Private Ryan",
+        "year": 1998,
+        "length": "2h 49m",
+        "age_rating": "R",
+        "star_rating": 8.6,
+        "number_of_ratings": "\u00a0(1.5M)",
+        "director": "Steven Spielberg",
+        "starring": [
+            "Tom Hanks",
+            "Matt Damon",
+            "Tom Sizemore"
+        ]
+    },
+    {
+        "position": 79,
+        "title": "A Clockwork Orange",
+        "year": 1971,
+        "length": "2h 16m",
+        "age_rating": "R",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(880K)",
+        "director": "Stanley Kubrick",
+        "starring": [
+            "Malcolm McDowell",
+            "Patrick Magee",
+            "Michael Bates"
+        ]
+    },
+    {
+        "position": 80,
+        "title": "The Grand Budapest Hotel",
+        "year": 2014,
+        "length": "1h 39m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(885K)",
+        "director": "Wes Anderson",
+        "starring": [
+            "Ralph Fiennes",
+            "F. Murray Abraham",
+            "Mathieu Amalric"
+        ]
+    },
+    {
+        "position": 81,
+        "title": "2001: A Space Odyssey",
+        "year": 1968,
+        "length": "2h 29m",
+        "age_rating": "G",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(718K)",
+        "director": "Stanley Kubrick",
+        "starring": [
+            "Keir Dullea",
+            "Gary Lockwood",
+            "William Sylvester"
+        ]
+    },
+    {
+        "position": 82,
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "year": 1998,
+        "length": "1h 47m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(616K)",
+        "director": "Guy Ritchie",
+        "starring": [
+            "Jason Flemyng",
+            "Dexter Fletcher",
+            "Nick Moran"
+        ]
+    },
+    {
+        "position": 83,
+        "title": "American History X",
+        "year": 1998,
+        "length": "1h 59m",
+        "age_rating": "R",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(1.2M)",
+        "director": "Tony Kaye",
+        "starring": [
+            "Edward Norton",
+            "Edward Furlong",
+            "Beverly D'Angelo"
+        ]
+    },
+    {
+        "position": 84,
+        "title": "Scarface",
+        "year": 1983,
+        "length": "2h 50m",
+        "age_rating": "R",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(915K)",
+        "director": "Brian De Palma",
+        "starring": [
+            "Al Pacino",
+            "Michelle Pfeiffer",
+            "Steven Bauer"
+        ]
+    },
+    {
+        "position": 85,
+        "title": "Incendies",
+        "year": 2010,
+        "length": "2h 11m",
+        "age_rating": "R",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(199K)",
+        "director": "Denis Villeneuve",
+        "starring": [
+            "Lubna Azabal",
+            "M\u00e9lissa D\u00e9sormeaux-Poulin",
+            "Maxim Gaudette"
+        ]
+    },
+    {
+        "position": 86,
+        "title": "The Terminator",
+        "year": 1984,
+        "length": "1h 47m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(923K)",
+        "director": "James Cameron",
+        "starring": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton",
+            "Michael Biehn"
+        ]
+    },
+    {
+        "position": 87,
+        "title": "Come and See",
+        "year": 1985,
+        "length": "2h 22m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(97K)",
+        "director": "Elem Klimov",
+        "starring": [
+            "Aleksey Kravchenko",
+            "Olga Mironova",
+            "Liubomiras Laucevicius"
+        ]
+    },
+    {
+        "position": 88,
+        "title": "The Wages of Fear",
+        "year": 1953,
+        "length": "2h 11m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(66K)",
+        "director": "Henri-Georges Clouzot",
+        "starring": [
+            "Yves Montand",
+            "Charles Vanel",
+            "Peter van Eyck"
+        ]
+    },
+    {
+        "position": 89,
+        "title": "Logan",
+        "year": 2017,
+        "length": "2h 17m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(830K)",
+        "director": "James Mangold",
+        "starring": [
+            "Hugh Jackman",
+            "Patrick Stewart",
+            "Dafne Keen"
+        ]
+    },
+    {
+        "position": 90,
+        "title": "The Good, the Bad and the Ugly",
+        "year": 1966,
+        "length": "2h 58m",
+        "age_rating": "R",
+        "star_rating": 8.8,
+        "number_of_ratings": "\u00a0(810K)",
+        "director": "Sergio Leone",
+        "starring": [
+            "Clint Eastwood",
+            "Eli Wallach",
+            "Lee Van Cleef"
+        ]
+    },
+    {
+        "position": 91,
+        "title": "City of God",
+        "year": 2002,
+        "length": "2h 10m",
+        "age_rating": "R",
+        "star_rating": 8.6,
+        "number_of_ratings": "\u00a0(800K)",
+        "director": "Fernando Meirelles",
+        "starring": [
+            "Alexandre Rodrigues",
+            "Leandro Firmino",
+            "Matheus Nachtergaele"
+        ]
+    },
+    {
+        "position": 92,
+        "title": "The Big Lebowski",
+        "year": 1998,
+        "length": "1h 57m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(859K)",
+        "director": "Joel Coen",
+        "starring": [
+            "Jeff Bridges",
+            "John Goodman",
+            "Julianne Moore"
+        ]
+    },
+    {
+        "position": 93,
+        "title": "Braveheart",
+        "year": 1995,
+        "length": "2h 58m",
+        "age_rating": "R",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(1.1M)",
+        "director": "Mel Gibson",
+        "starring": [
+            "Mel Gibson",
+            "Sophie Marceau",
+            "Patrick McGoohan"
+        ]
+    },
+    {
+        "position": 94,
+        "title": "The Deer Hunter",
+        "year": 1978,
+        "length": "3h 3m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(362K)",
+        "director": "Michael Cimino",
+        "starring": [
+            "Robert De Niro",
+            "Christopher Walken",
+            "John Cazale"
+        ]
+    },
+    {
+        "position": 95,
+        "title": "Amadeus",
+        "year": 1984,
+        "length": "2h 40m",
+        "age_rating": "PG",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(427K)",
+        "director": "Milos Forman",
+        "starring": [
+            "F. Murray Abraham",
+            "Tom Hulce",
+            "Elizabeth Berridge"
+        ]
+    },
+    {
+        "position": 96,
+        "title": "Fargo",
+        "year": 1996,
+        "length": "1h 38m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(726K)",
+        "director": "Joel Coen",
+        "starring": [
+            "William H. Macy",
+            "Frances McDormand",
+            "Steve Buscemi"
+        ]
+    },
+    {
+        "position": 97,
+        "title": "Hacksaw Ridge",
+        "year": 2016,
+        "length": "2h 19m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(593K)",
+        "director": "Mel Gibson",
+        "starring": [
+            "Andrew Garfield",
+            "Sam Worthington",
+            "Luke Bracey"
+        ]
+    },
+    {
+        "position": 98,
+        "title": "Ratatouille",
+        "year": 2007,
+        "length": "1h 51m",
+        "age_rating": "G",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(823K)",
+        "director": "Brad Bird",
+        "starring": [
+            "Brad Garrett",
+            "Lou Romano",
+            "Patton Oswalt"
+        ]
+    },
+    {
+        "position": 99,
+        "title": "Avengers: Infinity War",
+        "year": 2018,
+        "length": "2h 29m",
+        "age_rating": "PG-13",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(1.2M)",
+        "director": "Anthony Russo",
+        "starring": [
+            "Robert Downey Jr.",
+            "Chris Hemsworth",
+            "Mark Ruffalo"
+        ]
+    },
+    {
+        "position": 100,
+        "title": "Dead Poets Society",
+        "year": 1989,
+        "length": "2h 8m",
+        "age_rating": "PG",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(545K)",
+        "director": "Peter Weir",
+        "starring": [
+            "Robin Williams",
+            "Robert Sean Leonard",
+            "Ethan Hawke"
+        ]
+    },
+    {
+        "position": 101,
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": 2002,
+        "length": "2h 59m",
+        "age_rating": "PG-13",
+        "star_rating": 8.8,
+        "number_of_ratings": "\u00a0(1.8M)",
+        "director": "Peter Jackson",
+        "starring": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Viggo Mortensen"
+        ]
+    },
+    {
+        "position": 102,
+        "title": "The Handmaiden",
+        "year": 2016,
+        "length": "2h 25m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(172K)",
+        "director": "Park Chan-wook",
+        "starring": [
+            "Kim Min-hee",
+            "Ha Jung-woo",
+            "Cho Jin-woong"
+        ]
+    },
+    {
+        "position": 103,
+        "title": "The Sixth Sense",
+        "year": 1999,
+        "length": "1h 47m",
+        "age_rating": "PG-13",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(1M)",
+        "director": "M. Night Shyamalan",
+        "starring": [
+            "Bruce Willis",
+            "Haley Joel Osment",
+            "Toni Collette"
+        ]
+    },
+    {
+        "position": 104,
+        "title": "Platoon",
+        "year": 1986,
+        "length": "2h",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(439K)",
+        "director": "Oliver Stone",
+        "starring": [
+            "Charlie Sheen",
+            "Tom Berenger",
+            "Willem Dafoe"
+        ]
+    },
+    {
+        "position": 105,
+        "title": "There Will Be Blood",
+        "year": 2007,
+        "length": "2h 38m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(640K)",
+        "director": "Paul Thomas Anderson",
+        "starring": [
+            "Daniel Day-Lewis",
+            "Paul Dano",
+            "Ciar\u00e1n Hinds"
+        ]
+    },
+    {
+        "position": 106,
+        "title": "Reservoir Dogs",
+        "year": 1992,
+        "length": "1h 39m",
+        "age_rating": "R",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(1.1M)",
+        "director": "Quentin Tarantino",
+        "starring": [
+            "Harvey Keitel",
+            "Tim Roth",
+            "Michael Madsen"
+        ]
+    },
+    {
+        "position": 107,
+        "title": "Trainspotting",
+        "year": 1996,
+        "length": "1h 33m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(725K)",
+        "director": "Danny Boyle",
+        "starring": [
+            "Ewan McGregor",
+            "Ewen Bremner",
+            "Jonny Lee Miller"
+        ]
+    },
+    {
+        "position": 108,
+        "title": "The Pianist",
+        "year": 2002,
+        "length": "2h 30m",
+        "age_rating": "R",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(910K)",
+        "director": "Roman Polanski",
+        "starring": [
+            "Adrien Brody",
+            "Thomas Kretschmann",
+            "Frank Finlay"
+        ]
+    },
+    {
+        "position": 109,
+        "title": "L.A",
+        "year": 1997,
+        "length": "2h 18m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(617K)",
+        "director": "Curtis Hanson",
+        "starring": [
+            "Kevin Spacey",
+            "Russell Crowe",
+            "Guy Pearce"
+        ]
+    },
+    {
+        "position": 110,
+        "title": "The Help",
+        "year": 2011,
+        "length": "2h 26m",
+        "age_rating": "PG-13",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(492K)",
+        "director": "Tate Taylor",
+        "starring": [
+            "Viola Davis",
+            "Emma Stone",
+            "Octavia Spencer"
+        ]
+    },
+    {
+        "position": 111,
+        "title": "Howl's Moving Castle",
+        "year": 2004,
+        "length": "1h 59m",
+        "age_rating": "PG",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(448K)",
+        "director": "Hayao Miyazaki",
+        "starring": [
+            "Chieko Baish\u00f4",
+            "Takuya Kimura",
+            "Tatsuya Gash\u00fbin"
+        ]
+    },
+    {
+        "position": 112,
+        "title": "Full Metal Jacket",
+        "year": 1987,
+        "length": "1h 56m",
+        "age_rating": "R",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(789K)",
+        "director": "Stanley Kubrick",
+        "starring": [
+            "Matthew Modine",
+            "R. Lee Ermey",
+            "Vincent D'Onofrio"
+        ]
+    },
+    {
+        "position": 113,
+        "title": "Inside Out",
+        "year": 2015,
+        "length": "1h 35m",
+        "age_rating": "PG",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(784K)",
+        "director": "Pete Docter",
+        "starring": [
+            "Amy Poehler",
+            "Bill Hader",
+            "Lewis Black"
+        ]
+    },
+    {
+        "position": 114,
+        "title": "Casino",
+        "year": 1995,
+        "length": "2h 58m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(563K)",
+        "director": "Martin Scorsese",
+        "starring": [
+            "Robert De Niro",
+            "Sharon Stone",
+            "Joe Pesci"
+        ]
+    },
+    {
+        "position": 115,
+        "title": "1917",
+        "year": 2019,
+        "length": "1h 59m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(673K)",
+        "director": "Sam Mendes",
+        "starring": [
+            "Dean-Charles Chapman",
+            "George MacKay",
+            "Daniel Mays"
+        ]
+    },
+    {
+        "position": 116,
+        "title": "Spider-Man: Into the Spider-Verse",
+        "year": 2018,
+        "length": "1h 57m",
+        "age_rating": "PG",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(669K)",
+        "director": "Bob Persichetti",
+        "starring": [
+            "Shameik Moore",
+            "Jake Johnson",
+            "Hailee Steinfeld"
+        ]
+    },
+    {
+        "position": 117,
+        "title": "The Thing",
+        "year": 1982,
+        "length": "1h 49m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(466K)",
+        "director": "John Carpenter",
+        "starring": [
+            "Kurt Russell",
+            "Wilford Brimley",
+            "Keith David"
+        ]
+    },
+    {
+        "position": 118,
+        "title": "A Beautiful Mind",
+        "year": 2001,
+        "length": "2h 15m",
+        "age_rating": "PG-13",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(986K)",
+        "director": "Ron Howard",
+        "starring": [
+            "Russell Crowe",
+            "Ed Harris",
+            "Jennifer Connelly"
+        ]
+    },
+    {
+        "position": 119,
+        "title": "Raiders of the Lost Ark",
+        "year": 1981,
+        "length": "1h 55m",
+        "age_rating": "PG",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(1M)",
+        "director": "Steven Spielberg",
+        "starring": [
+            "Harrison Ford",
+            "Karen Allen",
+            "Paul Freeman"
+        ]
+    },
+    {
+        "position": 120,
+        "title": "The Hunt",
+        "year": 2012,
+        "length": "1h 55m",
+        "age_rating": "R",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(364K)",
+        "director": "Thomas Vinterberg",
+        "starring": [
+            "Mads Mikkelsen",
+            "Thomas Bo Larsen",
+            "Annika Wedderkopp"
+        ]
+    },
+    {
+        "position": 121,
+        "title": "Jaws",
+        "year": 1975,
+        "length": "2h 4m",
+        "age_rating": "PG",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(658K)",
+        "director": "Steven Spielberg",
+        "starring": [
+            "Roy Scheider",
+            "Robert Shaw",
+            "Richard Dreyfuss"
+        ]
+    },
+    {
+        "position": 122,
+        "title": "Rush",
+        "year": 2013,
+        "length": "2h 3m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(513K)",
+        "director": "Ron Howard",
+        "starring": [
+            "Daniel Br\u00fchl",
+            "Chris Hemsworth",
+            "Olivia Wilde"
+        ]
+    },
+    {
+        "position": 123,
+        "title": "Gone with the Wind",
+        "year": 1939,
+        "length": "3h 58m",
+        "age_rating": "G",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(334K)",
+        "director": "Victor Fleming",
+        "starring": [
+            "Clark Gable",
+            "Vivien Leigh",
+            "Thomas Mitchell"
+        ]
+    },
+    {
+        "position": 124,
+        "title": "V for Vendetta",
+        "year": 2005,
+        "length": "2h 12m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(1.2M)",
+        "director": "James McTeigue",
+        "starring": [
+            "Hugo Weaving",
+            "Natalie Portman",
+            "Rupert Graves"
+        ]
+    },
+    {
+        "position": 125,
+        "title": "The Exorcist",
+        "year": 1973,
+        "length": "2h 2m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(454K)",
+        "director": "William Friedkin",
+        "starring": [
+            "Ellen Burstyn",
+            "Max von Sydow",
+            "Linda Blair"
+        ]
+    },
+    {
+        "position": 126,
+        "title": "Hamilton",
+        "year": 2020,
+        "length": "2h 40m",
+        "age_rating": "PG-13",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(113K)",
+        "director": "Thomas Kail",
+        "starring": [
+            "Lin-Manuel Miranda",
+            "Phillipa Soo",
+            "Leslie Odom Jr."
+        ]
+    },
+    {
+        "position": 127,
+        "title": "The Sound of Music",
+        "year": 1965,
+        "length": "2h 52m",
+        "age_rating": "G",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(260K)",
+        "director": "Robert Wise",
+        "starring": [
+            "Julie Andrews",
+            "Christopher Plummer",
+            "Eleanor Parker"
+        ]
+    },
+    {
+        "position": 128,
+        "title": "Casablanca",
+        "year": 1942,
+        "length": "1h 42m",
+        "age_rating": "PG",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(605K)",
+        "director": "Michael Curtiz",
+        "starring": [
+            "Humphrey Bogart",
+            "Ingrid Bergman",
+            "Paul Henreid"
+        ]
+    },
+    {
+        "position": 129,
+        "title": "The Incredibles",
+        "year": 2004,
+        "length": "1h 55m",
+        "age_rating": "PG",
+        "star_rating": 8.0,
+        "number_of_ratings": "\u00a0(807K)",
+        "director": "Brad Bird",
+        "starring": [
+            "Craig T. Nelson",
+            "Samuel L. Jackson",
+            "Holly Hunter"
+        ]
+    },
+    {
+        "position": 130,
+        "title": "Chinatown",
+        "year": 1974,
+        "length": "2h 10m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(349K)",
+        "director": "Roman Polanski",
+        "starring": [
+            "Jack Nicholson",
+            "Faye Dunaway",
+            "John Huston"
+        ]
+    },
+    {
+        "position": 131,
+        "title": "Toy Story",
+        "year": 1995,
+        "length": "1h 21m",
+        "age_rating": "G",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(1.1M)",
+        "director": "John Lasseter",
+        "starring": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Don Rickles"
+        ]
+    },
+    {
+        "position": 132,
+        "title": "Die Hard",
+        "year": 1988,
+        "length": "2h 12m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(944K)",
+        "director": "John McTiernan",
+        "starring": [
+            "Bruce Willis",
+            "Alan Rickman",
+            "Bonnie Bedelia"
+        ]
+    },
+    {
+        "position": 133,
+        "title": "Life Is Beautiful",
+        "year": 1997,
+        "length": "1h 56m",
+        "age_rating": "PG-13",
+        "star_rating": 8.6,
+        "number_of_ratings": "\u00a0(742K)",
+        "director": "Roberto Benigni",
+        "starring": [
+            "Roberto Benigni",
+            "Nicoletta Braschi",
+            "Giorgio Cantarini"
+        ]
+    },
+    {
+        "position": 134,
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "year": 2017,
+        "length": "1h 55m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(554K)",
+        "director": "Martin McDonagh",
+        "starring": [
+            "Frances McDormand",
+            "Woody Harrelson",
+            "Sam Rockwell"
+        ]
+    },
+    {
+        "position": 135,
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": 1980,
+        "length": "2h 4m",
+        "age_rating": "PG",
+        "star_rating": 8.7,
+        "number_of_ratings": "\u00a0(1.4M)",
+        "director": "Irvin Kershner",
+        "starring": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher"
+        ]
+    },
+    {
+        "position": 136,
+        "title": "Your Name.",
+        "year": 2016,
+        "length": "1h 46m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(319K)",
+        "director": "Makoto Shinkai",
+        "starring": [
+            "Ryunosuke Kamiki",
+            "Mone Kamishiraishi",
+            "Ryo Narita"
+        ]
+    },
+    {
+        "position": 137,
+        "title": "Warrior",
+        "year": 2011,
+        "length": "2h 20m",
+        "age_rating": "PG-13",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(497K)",
+        "director": "Gavin O'Connor",
+        "starring": [
+            "Tom Hardy",
+            "Nick Nolte",
+            "Joel Edgerton"
+        ]
+    },
+    {
+        "position": 138,
+        "title": "Psycho",
+        "year": 1960,
+        "length": "1h 49m",
+        "age_rating": "R",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(717K)",
+        "director": "Alfred Hitchcock",
+        "starring": [
+            "Anthony Perkins",
+            "Janet Leigh",
+            "Vera Miles"
+        ]
+    },
+    {
+        "position": 139,
+        "title": "The Intouchables",
+        "year": 2011,
+        "length": "1h 52m",
+        "age_rating": "R",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(927K)",
+        "director": "Olivier Nakache",
+        "starring": [
+            "Fran\u00e7ois Cluzet",
+            "Omar Sy",
+            "Anne Le Ny"
+        ]
+    },
+    {
+        "position": 140,
+        "title": "Into the Wild",
+        "year": 2007,
+        "length": "2h 28m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(657K)",
+        "director": "Sean Penn",
+        "starring": [
+            "Emile Hirsch",
+            "Vince Vaughn",
+            "Catherine Keener"
+        ]
+    },
+    {
+        "position": 141,
+        "title": "Finding Nemo",
+        "year": 2003,
+        "length": "1h 40m",
+        "age_rating": "G",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(1.1M)",
+        "director": "Andrew Stanton",
+        "starring": [
+            "Albert Brooks",
+            "Ellen DeGeneres",
+            "Alexander Gould"
+        ]
+    },
+    {
+        "position": 142,
+        "title": "Memories of Murder",
+        "year": 2003,
+        "length": "2h 12m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(216K)",
+        "director": "Bong Joon Ho",
+        "starring": [
+            "Song Kang-ho",
+            "Kim Sang-kyung",
+            "Kim Roe-ha"
+        ]
+    },
+    {
+        "position": 143,
+        "title": "WALL\u00b7E",
+        "year": 2008,
+        "length": "1h 38m",
+        "age_rating": "G",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(1.2M)",
+        "director": "Andrew Stanton",
+        "starring": [
+            "Ben Burtt",
+            "Elissa Knight",
+            "Jeff Garlin"
+        ]
+    },
+    {
+        "position": 144,
+        "title": "Up",
+        "year": 2009,
+        "length": "1h 36m",
+        "age_rating": "PG",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(1.1M)",
+        "director": "Pete Docter",
+        "starring": [
+            "Edward Asner",
+            "Jordan Nagai",
+            "John Ratzenberger"
+        ]
+    },
+    {
+        "position": 145,
+        "title": "Unforgiven",
+        "year": 1992,
+        "length": "2h 10m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(436K)",
+        "director": "Clint Eastwood",
+        "starring": [
+            "Clint Eastwood",
+            "Gene Hackman",
+            "Morgan Freeman"
+        ]
+    },
+    {
+        "position": 146,
+        "title": "Monsters, Inc.",
+        "year": 2001,
+        "length": "1h 32m",
+        "age_rating": "G",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(977K)",
+        "director": "Pete Docter",
+        "starring": [
+            "Billy Crystal",
+            "John Goodman",
+            "Mary Gibbs"
+        ]
+    },
+    {
+        "position": 147,
+        "title": "Lawrence of Arabia",
+        "year": 1962,
+        "length": "3h 38m",
+        "age_rating": "PG",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(314K)",
+        "director": "David Lean",
+        "starring": [
+            "Peter O'Toole",
+            "Alec Guinness",
+            "Anthony Quinn"
+        ]
+    },
+    {
+        "position": 148,
+        "title": "Once Upon a Time in the West",
+        "year": 1968,
+        "length": "2h 46m",
+        "age_rating": "PG-13",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(349K)",
+        "director": "Sergio Leone",
+        "starring": [
+            "Henry Fonda",
+            "Charles Bronson",
+            "Claudia Cardinale"
+        ]
+    },
+    {
+        "position": 149,
+        "title": "Dr",
+        "year": 1964,
+        "length": "1h 35m",
+        "age_rating": "PG",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(517K)",
+        "director": "Stanley Kubrick",
+        "starring": [
+            "Peter Sellers",
+            "George C. Scott",
+            "Sterling Hayden"
+        ]
+    },
+    {
+        "position": 150,
+        "title": "The Great Escape",
+        "year": 1963,
+        "length": "2h 52m",
+        "age_rating": "Approved",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(259K)",
+        "director": "John Sturges",
+        "starring": [
+            "Steve McQueen",
+            "James Garner",
+            "Richard Attenborough"
+        ]
+    },
+    {
+        "position": 151,
+        "title": "Pan's Labyrinth",
+        "year": 2006,
+        "length": "1h 58m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(702K)",
+        "director": "Guillermo del Toro",
+        "starring": [
+            "Ivana Baquero",
+            "Ariadna Gil",
+            "Sergi L\u00f3pez"
+        ]
+    },
+    {
+        "position": 152,
+        "title": "The Father",
+        "year": 2020,
+        "length": "1h 37m",
+        "age_rating": "PG-13",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(192K)",
+        "director": "Florian Zeller",
+        "starring": [
+            "Anthony Hopkins",
+            "Olivia Colman",
+            "Mark Gatiss"
+        ]
+    },
+    {
+        "position": 153,
+        "title": "Downfall",
+        "year": 2004,
+        "length": "2h 36m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(375K)",
+        "director": "Oliver Hirschbiegel",
+        "starring": [
+            "Bruno Ganz",
+            "Alexandra Maria Lara",
+            "Ulrich Matthes"
+        ]
+    },
+    {
+        "position": 154,
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "year": 1983,
+        "length": "2h 11m",
+        "age_rating": "PG",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(1.1M)",
+        "director": "Richard Marquand",
+        "starring": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher"
+        ]
+    },
+    {
+        "position": 155,
+        "title": "Groundhog Day",
+        "year": 1993,
+        "length": "1h 41m",
+        "age_rating": "PG",
+        "star_rating": 8.0,
+        "number_of_ratings": "\u00a0(684K)",
+        "director": "Harold Ramis",
+        "starring": [
+            "Bill Murray",
+            "Andie MacDowell",
+            "Chris Elliott"
+        ]
+    },
+    {
+        "position": 156,
+        "title": "Spotlight",
+        "year": 2015,
+        "length": "2h 9m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(502K)",
+        "director": "Tom McCarthy",
+        "starring": [
+            "Mark Ruffalo",
+            "Michael Keaton",
+            "Rachel McAdams"
+        ]
+    },
+    {
+        "position": 157,
+        "title": "How to Train Your Dragon",
+        "year": 2010,
+        "length": "1h 38m",
+        "age_rating": "PG",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(799K)",
+        "director": "Dean DeBlois",
+        "starring": [
+            "Jay Baruchel",
+            "Gerard Butler",
+            "Christopher Mintz-Plasse"
+        ]
+    },
+    {
+        "position": 158,
+        "title": "Coco",
+        "year": 2017,
+        "length": "1h 45m",
+        "age_rating": "PG",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(589K)",
+        "director": "Lee Unkrich",
+        "starring": [
+            "Anthony Gonzalez",
+            "Gael Garc\u00eda Bernal",
+            "Benjamin Bratt"
+        ]
+    },
+    {
+        "position": 159,
+        "title": "Am\u00e9lie",
+        "year": 2001,
+        "length": "2h 2m",
+        "age_rating": "R",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(793K)",
+        "director": "Jean-Pierre Jeunet",
+        "starring": [
+            "Audrey Tautou",
+            "Mathieu Kassovitz",
+            "Rufus"
+        ]
+    },
+    {
+        "position": 160,
+        "title": "Dances with Wolves",
+        "year": 1990,
+        "length": "3h 1m",
+        "age_rating": "PG-13",
+        "star_rating": 8.0,
+        "number_of_ratings": "\u00a0(290K)",
+        "director": "Kevin Costner",
+        "starring": [
+            "Kevin Costner",
+            "Mary McDonnell",
+            "Graham Greene"
+        ]
+    },
+    {
+        "position": 161,
+        "title": "Indiana Jones and the Last Crusade",
+        "year": 1989,
+        "length": "2h 7m",
+        "age_rating": "PG-13",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(810K)",
+        "director": "Steven Spielberg",
+        "starring": [
+            "Harrison Ford",
+            "Sean Connery",
+            "Alison Doody"
+        ]
+    },
+    {
+        "position": 162,
+        "title": "3 Idiots",
+        "year": 2009,
+        "length": "2h 50m",
+        "age_rating": "PG-13",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(433K)",
+        "director": "Rajkumar Hirani",
+        "starring": [
+            "Aamir Khan",
+            "Madhavan",
+            "Mona Singh"
+        ]
+    },
+    {
+        "position": 163,
+        "title": "To Kill a Mockingbird",
+        "year": 1962,
+        "length": "2h 9m",
+        "age_rating": "Approved",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(333K)",
+        "director": "Robert Mulligan",
+        "starring": [
+            "Gregory Peck",
+            "John Megna",
+            "Frank Overton"
+        ]
+    },
+    {
+        "position": 164,
+        "title": "Monty Python and the Holy Grail",
+        "year": 1975,
+        "length": "1h 31m",
+        "age_rating": "PG",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(570K)",
+        "director": "Terry Gilliam",
+        "starring": [
+            "Graham Chapman",
+            "John Cleese",
+            "Eric Idle"
+        ]
+    },
+    {
+        "position": 165,
+        "title": "12 Years a Slave",
+        "year": 2013,
+        "length": "2h 14m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(740K)",
+        "director": "Steve McQueen",
+        "starring": [
+            "Chiwetel Ejiofor",
+            "Michael Kenneth Williams",
+            "Michael Fassbender"
+        ]
+    },
+    {
+        "position": 166,
+        "title": "Rocky",
+        "year": 1976,
+        "length": "2h",
+        "age_rating": "PG",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(627K)",
+        "director": "John G. Avildsen",
+        "starring": [
+            "Sylvester Stallone",
+            "Talia Shire",
+            "Burt Young"
+        ]
+    },
+    {
+        "position": 167,
+        "title": "Princess Mononoke",
+        "year": 1997,
+        "length": "2h 14m",
+        "age_rating": "PG-13",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(433K)",
+        "director": "Hayao Miyazaki",
+        "starring": [
+            "Y\u00f4ji Matsuda",
+            "Yuriko Ishida",
+            "Y\u00fbko Tanaka"
+        ]
+    },
+    {
+        "position": 168,
+        "title": "Aladdin",
+        "year": 1992,
+        "length": "1h 30m",
+        "age_rating": "G",
+        "star_rating": 8.0,
+        "number_of_ratings": "\u00a0(466K)",
+        "director": "Ron Clements",
+        "starring": [
+            "Scott Weinger",
+            "Robin Williams",
+            "Linda Larkin"
+        ]
+    },
+    {
+        "position": 169,
+        "title": "Before Sunrise",
+        "year": 1995,
+        "length": "1h 41m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(339K)",
+        "director": "Richard Linklater",
+        "starring": [
+            "Ethan Hawke",
+            "Julie Delpy",
+            "Andrea Eckert"
+        ]
+    },
+    {
+        "position": 170,
+        "title": "The Lives of Others",
+        "year": 2006,
+        "length": "2h 17m",
+        "age_rating": "R",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(410K)",
+        "director": "Florian Henckel von Donnersmarck",
+        "starring": [
+            "Ulrich M\u00fche",
+            "Martina Gedeck",
+            "Sebastian Koch"
+        ]
+    },
+    {
+        "position": 171,
+        "title": "Room",
+        "year": 2015,
+        "length": "1h 58m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(450K)",
+        "director": "Lenny Abrahamson",
+        "starring": [
+            "Brie Larson",
+            "Jacob Tremblay",
+            "Sean Bridgers"
+        ]
+    },
+    {
+        "position": 172,
+        "title": "Grave of the Fireflies",
+        "year": 1988,
+        "length": "1h 29m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(310K)",
+        "director": "Isao Takahata",
+        "starring": [
+            "Tsutomu Tatsumi",
+            "Ayano Shiraishi",
+            "Akemi Yamaguchi"
+        ]
+    },
+    {
+        "position": 173,
+        "title": "Hachi: A Dog's Tale",
+        "year": 2009,
+        "length": "1h 33m",
+        "age_rating": "G",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(311K)",
+        "director": "Lasse Hallstr\u00f6m",
+        "starring": [
+            "Richard Gere",
+            "Joan Allen",
+            "Cary-Hiroyuki Tagawa"
+        ]
+    },
+    {
+        "position": 174,
+        "title": "In the Name of the Father",
+        "year": 1993,
+        "length": "2h 13m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(187K)",
+        "director": "Jim Sheridan",
+        "starring": [
+            "Daniel Day-Lewis",
+            "Pete Postlethwaite",
+            "Alison Crosbie"
+        ]
+    },
+    {
+        "position": 175,
+        "title": "Toy Story 3",
+        "year": 2010,
+        "length": "1h 43m",
+        "age_rating": "G",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(891K)",
+        "director": "Lee Unkrich",
+        "starring": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Joan Cusack"
+        ]
+    },
+    {
+        "position": 176,
+        "title": "Seven Samurai",
+        "year": 1954,
+        "length": "3h 27m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.6,
+        "number_of_ratings": "\u00a0(366K)",
+        "director": "Akira Kurosawa",
+        "starring": [
+            "Toshir\u00f4 Mifune",
+            "Takashi Shimura",
+            "Keiko Tsushima"
+        ]
+    },
+    {
+        "position": 177,
+        "title": "Million Dollar Baby",
+        "year": 2004,
+        "length": "2h 12m",
+        "age_rating": "PG-13",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(721K)",
+        "director": "Clint Eastwood",
+        "starring": [
+            "Hilary Swank",
+            "Clint Eastwood",
+            "Morgan Freeman"
+        ]
+    },
+    {
+        "position": 178,
+        "title": "North by Northwest",
+        "year": 1959,
+        "length": "2h 16m",
+        "age_rating": "Approved",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(346K)",
+        "director": "Alfred Hitchcock",
+        "starring": [
+            "Cary Grant",
+            "Eva Marie Saint",
+            "James Mason"
+        ]
+    },
+    {
+        "position": 179,
+        "title": "Rear Window",
+        "year": 1954,
+        "length": "1h 52m",
+        "age_rating": "PG",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(521K)",
+        "director": "Alfred Hitchcock",
+        "starring": [
+            "James Stewart",
+            "Grace Kelly",
+            "Wendell Corey"
+        ]
+    },
+    {
+        "position": 180,
+        "title": "Gran Torino",
+        "year": 2008,
+        "length": "1h 56m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(814K)",
+        "director": "Clint Eastwood",
+        "starring": [
+            "Clint Eastwood",
+            "Bee Vang",
+            "Christopher Carley"
+        ]
+    },
+    {
+        "position": 181,
+        "title": "The Sting",
+        "year": 1973,
+        "length": "2h 9m",
+        "age_rating": "PG",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(279K)",
+        "director": "George Roy Hill",
+        "starring": [
+            "Paul Newman",
+            "Robert Redford",
+            "Robert Shaw"
+        ]
+    },
+    {
+        "position": 182,
+        "title": "Vertigo",
+        "year": 1958,
+        "length": "2h 8m",
+        "age_rating": "PG",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(426K)",
+        "director": "Alfred Hitchcock",
+        "starring": [
+            "James Stewart",
+            "Kim Novak",
+            "Barbara Bel Geddes"
+        ]
+    },
+    {
+        "position": 183,
+        "title": "Citizen Kane",
+        "year": 1941,
+        "length": "1h 59m",
+        "age_rating": "PG",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(465K)",
+        "director": "Orson Welles",
+        "starring": [
+            "Orson Welles",
+            "Joseph Cotten",
+            "Dorothy Comingore"
+        ]
+    },
+    {
+        "position": 184,
+        "title": "Metropolis",
+        "year": 1927,
+        "length": "2h 33m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(185K)",
+        "director": "Fritz Lang",
+        "starring": [
+            "Brigitte Helm",
+            "Alfred Abel",
+            "Gustav Fr\u00f6hlich"
+        ]
+    },
+    {
+        "position": 185,
+        "title": "Capernaum",
+        "year": 2018,
+        "length": "2h 6m",
+        "age_rating": "R",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(105K)",
+        "director": "Nadine Labaki",
+        "starring": [
+            "Zain Al Rafeea",
+            "Yordanos Shiferaw",
+            "Boluwatife Treasure Bankole"
+        ]
+    },
+    {
+        "position": 186,
+        "title": "It's a Wonderful Life",
+        "year": 1946,
+        "length": "2h 10m",
+        "age_rating": "PG",
+        "star_rating": 8.6,
+        "number_of_ratings": "\u00a0(499K)",
+        "director": "Frank Capra",
+        "starring": [
+            "James Stewart",
+            "Donna Reed",
+            "Lionel Barrymore"
+        ]
+    },
+    {
+        "position": 187,
+        "title": "Double Indemnity",
+        "year": 1944,
+        "length": "1h 47m",
+        "age_rating": "Passed",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(167K)",
+        "director": "Billy Wilder",
+        "starring": [
+            "Fred MacMurray",
+            "Barbara Stanwyck",
+            "Edward G. Robinson"
+        ]
+    },
+    {
+        "position": 188,
+        "title": "My Neighbor Totoro",
+        "year": 1988,
+        "length": "1h 26m",
+        "age_rating": "G",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(379K)",
+        "director": "Hayao Miyazaki",
+        "starring": [
+            "Hitoshi Takagi",
+            "Noriko Hidaka",
+            "Chika Sakamoto"
+        ]
+    },
+    {
+        "position": 189,
+        "title": "Cinema Paradiso",
+        "year": 1988,
+        "length": "2h 54m",
+        "age_rating": "PG",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(282K)",
+        "director": "Giuseppe Tornatore",
+        "starring": [
+            "Philippe Noiret",
+            "Enzo Cannavale",
+            "Antonella Attili"
+        ]
+    },
+    {
+        "position": 190,
+        "title": "Harakiri",
+        "year": 1962,
+        "length": "2h 13m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.6,
+        "number_of_ratings": "\u00a0(68K)",
+        "director": "Masaki Kobayashi",
+        "starring": [
+            "Tatsuya Nakadai",
+            "Akira Ishihama",
+            "Shima Iwashita"
+        ]
+    },
+    {
+        "position": 191,
+        "title": "Some Like It Hot",
+        "year": 1959,
+        "length": "2h 1m",
+        "age_rating": "Passed",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(283K)",
+        "director": "Billy Wilder",
+        "starring": [
+            "Marilyn Monroe",
+            "Tony Curtis",
+            "Jack Lemmon"
+        ]
+    },
+    {
+        "position": 192,
+        "title": "Singin' in the Rain",
+        "year": 1952,
+        "length": "1h 43m",
+        "age_rating": "G",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(260K)",
+        "director": "Stanley Donen",
+        "starring": [
+            "Gene Kelly",
+            "Donald O'Connor",
+            "Debbie Reynolds"
+        ]
+    },
+    {
+        "position": 193,
+        "title": "Barry Lyndon",
+        "year": 1975,
+        "length": "3h 5m",
+        "age_rating": "PG",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(183K)",
+        "director": "Stanley Kubrick",
+        "starring": [
+            "Ryan O'Neal",
+            "Marisa Berenson",
+            "Patrick Magee"
+        ]
+    },
+    {
+        "position": 194,
+        "title": "The Secret in Their Eyes",
+        "year": 2009,
+        "length": "2h 9m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(222K)",
+        "director": "Juan Jos\u00e9 Campanella",
+        "starring": [
+            "Ricardo Dar\u00edn",
+            "Soledad Villamil",
+            "Pablo Rago"
+        ]
+    },
+    {
+        "position": 195,
+        "title": "La haine",
+        "year": 1995,
+        "length": "1h 38m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(196K)",
+        "director": "Mathieu Kassovitz",
+        "starring": [
+            "Vincent Cassel",
+            "Hubert Kound\u00e9",
+            "Sa\u00efd Taghmaoui"
+        ]
+    },
+    {
+        "position": 196,
+        "title": "Cool Hand Luke",
+        "year": 1967,
+        "length": "2h 7m",
+        "age_rating": "GP",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(188K)",
+        "director": "Stuart Rosenberg",
+        "starring": [
+            "Paul Newman",
+            "George Kennedy",
+            "Strother Martin"
+        ]
+    },
+    {
+        "position": 197,
+        "title": "Raging Bull",
+        "year": 1980,
+        "length": "2h 9m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(380K)",
+        "director": "Martin Scorsese",
+        "starring": [
+            "Robert De Niro",
+            "Cathy Moriarty",
+            "Joe Pesci"
+        ]
+    },
+    {
+        "position": 198,
+        "title": "Wild Tales",
+        "year": 2014,
+        "length": "2h 2m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(216K)",
+        "director": "Dami\u00e1n Szifron",
+        "starring": [
+            "Dar\u00edo Grandinetti",
+            "Mar\u00eda Marull",
+            "M\u00f3nica Villa"
+        ]
+    },
+    {
+        "position": 199,
+        "title": "Das Boot",
+        "year": 1981,
+        "length": "2h 29m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(264K)",
+        "director": "Wolfgang Petersen",
+        "starring": [
+            "J\u00fcrgen Prochnow",
+            "Herbert Gr\u00f6nemeyer",
+            "Klaus Wennemann"
+        ]
+    },
+    {
+        "position": 200,
+        "title": "Network",
+        "year": 1976,
+        "length": "2h 1m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(170K)",
+        "director": "Sidney Lumet",
+        "starring": [
+            "Faye Dunaway",
+            "William Holden",
+            "Peter Finch"
+        ]
+    },
+    {
+        "position": 201,
+        "title": "Sunset Blvd.",
+        "year": 1950,
+        "length": "1h 50m",
+        "age_rating": "Passed",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(236K)",
+        "director": "Billy Wilder",
+        "starring": [
+            "William Holden",
+            "Gloria Swanson",
+            "Erich von Stroheim"
+        ]
+    },
+    {
+        "position": 202,
+        "title": "For a Few Dollars More",
+        "year": 1965,
+        "length": "2h 12m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(274K)",
+        "director": "Sergio Leone",
+        "starring": [
+            "Clint Eastwood",
+            "Lee Van Cleef",
+            "Gian Maria Volont\u00e8"
+        ]
+    },
+    {
+        "position": 203,
+        "title": "Amores Perros",
+        "year": 2000,
+        "length": "2h 34m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(253K)",
+        "director": "Alejandro G. I\u00f1\u00e1rritu",
+        "starring": [
+            "Emilio Echevarr\u00eda",
+            "Gael Garc\u00eda Bernal",
+            "Goya Toledo"
+        ]
+    },
+    {
+        "position": 204,
+        "title": "The Elephant Man",
+        "year": 1980,
+        "length": "2h 4m",
+        "age_rating": "PG",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(258K)",
+        "director": "David Lynch",
+        "starring": [
+            "Anthony Hopkins",
+            "John Hurt",
+            "Anne Bancroft"
+        ]
+    },
+    {
+        "position": 205,
+        "title": "Ran",
+        "year": 1985,
+        "length": "2h 40m",
+        "age_rating": "R",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(136K)",
+        "director": "Akira Kurosawa",
+        "starring": [
+            "Tatsuya Nakadai",
+            "Akira Terao",
+            "Jinpachi Nezu"
+        ]
+    },
+    {
+        "position": 206,
+        "title": "The Iron Giant",
+        "year": 1999,
+        "length": "1h 26m",
+        "age_rating": "PG",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(227K)",
+        "director": "Brad Bird",
+        "starring": [
+            "Eli Marienthal",
+            "Harry Connick Jr.",
+            "Jennifer Aniston"
+        ]
+    },
+    {
+        "position": 207,
+        "title": "The Seventh Seal",
+        "year": 1957,
+        "length": "1h 36m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(198K)",
+        "director": "Ingmar Bergman",
+        "starring": [
+            "Max von Sydow",
+            "Gunnar Bj\u00f6rnstrand",
+            "Bengt Ekerot"
+        ]
+    },
+    {
+        "position": 208,
+        "title": "M",
+        "year": 1931,
+        "length": "1h 39m",
+        "age_rating": "Passed",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(168K)",
+        "director": "Fritz Lang",
+        "starring": [
+            "Peter Lorre",
+            "Ellen Widmann",
+            "Inge Landgut"
+        ]
+    },
+    {
+        "position": 209,
+        "title": "Before Sunset",
+        "year": 2004,
+        "length": "1h 20m",
+        "age_rating": "R",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(287K)",
+        "director": "Richard Linklater",
+        "starring": [
+            "Ethan Hawke",
+            "Julie Delpy",
+            "Vernon Dobtcheff"
+        ]
+    },
+    {
+        "position": 210,
+        "title": "The Bridge on the River Kwai",
+        "year": 1957,
+        "length": "2h 41m",
+        "age_rating": "PG",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(233K)",
+        "director": "David Lean",
+        "starring": [
+            "William Holden",
+            "Alec Guinness",
+            "Jack Hawkins"
+        ]
+    },
+    {
+        "position": 211,
+        "title": "The Apartment",
+        "year": 1960,
+        "length": "2h 5m",
+        "age_rating": "Approved",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(196K)",
+        "director": "Billy Wilder",
+        "starring": [
+            "Jack Lemmon",
+            "Shirley MacLaine",
+            "Fred MacMurray"
+        ]
+    },
+    {
+        "position": 212,
+        "title": "Paths of Glory",
+        "year": 1957,
+        "length": "1h 28m",
+        "age_rating": "Approved",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(212K)",
+        "director": "Stanley Kubrick",
+        "starring": [
+            "Kirk Douglas",
+            "Ralph Meeker",
+            "Adolphe Menjou"
+        ]
+    },
+    {
+        "position": 213,
+        "title": "Judgment at Nuremberg",
+        "year": 1961,
+        "length": "2h 59m",
+        "age_rating": "Approved",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(85K)",
+        "director": "Stanley Kramer",
+        "starring": [
+            "Spencer Tracy",
+            "Burt Lancaster",
+            "Richard Widmark"
+        ]
+    },
+    {
+        "position": 214,
+        "title": "The Third Man",
+        "year": 1949,
+        "length": "1h 33m",
+        "age_rating": "Approved",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(182K)",
+        "director": "Carol Reed",
+        "starring": [
+            "Orson Welles",
+            "Joseph Cotten",
+            "Alida Valli"
+        ]
+    },
+    {
+        "position": 215,
+        "title": "Witness for the Prosecution",
+        "year": 1957,
+        "length": "1h 56m",
+        "age_rating": "Approved",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(138K)",
+        "director": "Billy Wilder",
+        "starring": [
+            "Tyrone Power",
+            "Marlene Dietrich",
+            "Charles Laughton"
+        ]
+    },
+    {
+        "position": 216,
+        "title": "All About Eve",
+        "year": 1950,
+        "length": "2h 18m",
+        "age_rating": "Passed",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(139K)",
+        "director": "Joseph L. Mankiewicz",
+        "starring": [
+            "Bette Davis",
+            "Anne Baxter",
+            "George Sanders"
+        ]
+    },
+    {
+        "position": 217,
+        "title": "Jai Bhim",
+        "year": 2021,
+        "length": "2h 44m",
+        "age_rating": "Approved",
+        "star_rating": 8.7,
+        "number_of_ratings": "\u00a0(217K)",
+        "director": "T.J. Gnanavel",
+        "starring": [
+            "Suriya",
+            "Lijo Mol Jose",
+            "Manikandan K."
+        ]
+    },
+    {
+        "position": 218,
+        "title": "Dangal",
+        "year": 2016,
+        "length": "2h 41m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(210K)",
+        "director": "Nitesh Tiwari",
+        "starring": [
+            "Aamir Khan",
+            "Sakshi Tanwar",
+            "Fatima Sana Shaikh"
+        ]
+    },
+    {
+        "position": 219,
+        "title": "Hotel Rwanda",
+        "year": 2004,
+        "length": "2h 1m",
+        "age_rating": "PG-13",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(372K)",
+        "director": "Terry George",
+        "starring": [
+            "Don Cheadle",
+            "Sophie Okonedo",
+            "Joaquin Phoenix"
+        ]
+    },
+    {
+        "position": 220,
+        "title": "A Separation",
+        "year": 2011,
+        "length": "2h 3m",
+        "age_rating": "PG-13",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(258K)",
+        "director": "Asghar Farhadi",
+        "starring": [
+            "Payman Maadi",
+            "Leila Hatami",
+            "Sareh Bayat"
+        ]
+    },
+    {
+        "position": 221,
+        "title": "Rebecca",
+        "year": 1940,
+        "length": "2h 10m",
+        "age_rating": "Approved",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(147K)",
+        "director": "Alfred Hitchcock",
+        "starring": [
+            "Laurence Olivier",
+            "Joan Fontaine",
+            "George Sanders"
+        ]
+    },
+    {
+        "position": 222,
+        "title": "Rashomon",
+        "year": 1950,
+        "length": "1h 28m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(180K)",
+        "director": "Akira Kurosawa",
+        "starring": [
+            "Toshir\u00f4 Mifune",
+            "Machiko Ky\u00f4",
+            "Masayuki Mori"
+        ]
+    },
+    {
+        "position": 223,
+        "title": "Dial M for Murder",
+        "year": 1954,
+        "length": "1h 45m",
+        "age_rating": "PG",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(189K)",
+        "director": "Alfred Hitchcock",
+        "starring": [
+            "Ray Milland",
+            "Grace Kelly",
+            "Robert Cummings"
+        ]
+    },
+    {
+        "position": 224,
+        "title": "Ikiru",
+        "year": 1952,
+        "length": "2h 23m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(87K)",
+        "director": "Akira Kurosawa",
+        "starring": [
+            "Takashi Shimura",
+            "Nobuo Kaneko",
+            "Shin'ichi Himori"
+        ]
+    },
+    {
+        "position": 225,
+        "title": "It Happened One Night",
+        "year": 1934,
+        "length": "1h 45m",
+        "age_rating": "Passed",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(112K)",
+        "director": "Frank Capra",
+        "starring": [
+            "Clark Gable",
+            "Claudette Colbert",
+            "Walter Connolly"
+        ]
+    },
+    {
+        "position": 226,
+        "title": "The Best Years of Our Lives",
+        "year": 1946,
+        "length": "2h 50m",
+        "age_rating": "Approved",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(70K)",
+        "director": "William Wyler",
+        "starring": [
+            "Myrna Loy",
+            "Dana Andrews",
+            "Fredric March"
+        ]
+    },
+    {
+        "position": 227,
+        "title": "Like Stars on Earth",
+        "year": 2007,
+        "length": "2h 42m",
+        "age_rating": "PG",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(206K)",
+        "director": "Aamir Khan",
+        "starring": [
+            "Darsheel Safary",
+            "Aamir Khan",
+            "Tisca Chopra"
+        ]
+    },
+    {
+        "position": 228,
+        "title": "High and Low",
+        "year": 1963,
+        "length": "2h 23m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(53K)",
+        "director": "Akira Kurosawa",
+        "starring": [
+            "Toshir\u00f4 Mifune",
+            "Yutaka Sada",
+            "Tatsuya Nakadai"
+        ]
+    },
+    {
+        "position": 229,
+        "title": "The Great Dictator",
+        "year": 1940,
+        "length": "2h 5m",
+        "age_rating": "G",
+        "star_rating": 8.4,
+        "number_of_ratings": "\u00a0(237K)",
+        "director": "Charles Chaplin",
+        "starring": [
+            "Charles Chaplin",
+            "Paulette Goddard",
+            "Jack Oakie"
+        ]
+    },
+    {
+        "position": 230,
+        "title": "Klaus",
+        "year": 2019,
+        "length": "1h 36m",
+        "age_rating": "PG",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(189K)",
+        "director": "Sergio Pablos",
+        "starring": [
+            "Jason Schwartzman",
+            "J.K. Simmons",
+            "Rashida Jones"
+        ]
+    },
+    {
+        "position": 231,
+        "title": "Tokyo Story",
+        "year": 1953,
+        "length": "2h 16m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(68K)",
+        "director": "Yasujir\u00f4 Ozu",
+        "starring": [
+            "Chish\u00fb Ry\u00fb",
+            "Chieko Higashiyama",
+            "S\u00f4 Yamamura"
+        ]
+    },
+    {
+        "position": 232,
+        "title": "Yojimbo",
+        "year": 1961,
+        "length": "1h 50m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(131K)",
+        "director": "Akira Kurosawa",
+        "starring": [
+            "Toshir\u00f4 Mifune",
+            "Eijir\u00f4 T\u00f4no",
+            "Tatsuya Nakadai"
+        ]
+    },
+    {
+        "position": 233,
+        "title": "Wild Strawberries",
+        "year": 1957,
+        "length": "1h 31m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(115K)",
+        "director": "Ingmar Bergman",
+        "starring": [
+            "Victor Sj\u00f6str\u00f6m",
+            "Bibi Andersson",
+            "Ingrid Thulin"
+        ]
+    },
+    {
+        "position": 234,
+        "title": "Mary and Max",
+        "year": 2009,
+        "length": "1h 32m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(187K)",
+        "director": "Adam Elliot",
+        "starring": [
+            "Toni Collette",
+            "Philip Seymour Hoffman",
+            "Eric Bana"
+        ]
+    },
+    {
+        "position": 235,
+        "title": "The Grapes of Wrath",
+        "year": 1940,
+        "length": "2h 9m",
+        "age_rating": "Passed",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(100K)",
+        "director": "John Ford",
+        "starring": [
+            "Henry Fonda",
+            "Jane Darwell",
+            "John Carradine"
+        ]
+    },
+    {
+        "position": 236,
+        "title": "To Be or Not to Be",
+        "year": 1942,
+        "length": "1h 39m",
+        "age_rating": "Passed",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(43K)",
+        "director": "Ernst Lubitsch",
+        "starring": [
+            "Carole Lombard",
+            "Jack Benny",
+            "Robert Stack"
+        ]
+    },
+    {
+        "position": 237,
+        "title": "Bicycle Thieves",
+        "year": 1948,
+        "length": "1h 29m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.3,
+        "number_of_ratings": "\u00a0(175K)",
+        "director": "Vittorio De Sica",
+        "starring": [
+            "Lamberto Maggiorani",
+            "Enzo Staiola",
+            "Lianella Carell"
+        ]
+    },
+    {
+        "position": 238,
+        "title": "City Lights",
+        "year": 1931,
+        "length": "1h 27m",
+        "age_rating": "G",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(196K)",
+        "director": "Charles Chaplin",
+        "starring": [
+            "Charles Chaplin",
+            "Virginia Cherrill",
+            "Florence Lee"
+        ]
+    },
+    {
+        "position": 239,
+        "title": "Modern Times",
+        "year": 1936,
+        "length": "1h 27m",
+        "age_rating": "G",
+        "star_rating": 8.5,
+        "number_of_ratings": "\u00a0(259K)",
+        "director": "Charles Chaplin",
+        "starring": [
+            "Charles Chaplin",
+            "Paulette Goddard",
+            "Henry Bergman"
+        ]
+    },
+    {
+        "position": 240,
+        "title": "The Treasure of the Sierra Madre",
+        "year": 1948,
+        "length": "2h 6m",
+        "age_rating": "Passed",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(132K)",
+        "director": "John Huston",
+        "starring": [
+            "Humphrey Bogart",
+            "Walter Huston",
+            "Tim Holt"
+        ]
+    },
+    {
+        "position": 241,
+        "title": "The Battle of Algiers",
+        "year": 1966,
+        "length": "2h 1m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(66K)",
+        "director": "Gillo Pontecorvo",
+        "starring": [
+            "Brahim Hadjadj",
+            "Jean Martin",
+            "Yacef Saadi"
+        ]
+    },
+    {
+        "position": 242,
+        "title": "Children of Heaven",
+        "year": 1997,
+        "length": "1h 29m",
+        "age_rating": "PG",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(81K)",
+        "director": "Majid Majidi",
+        "starring": [
+            "Mohammad Amir Naji",
+            "Amir Farrokh Hashemian",
+            "Bahare Seddiqi"
+        ]
+    },
+    {
+        "position": 243,
+        "title": "Drishyam",
+        "year": 2015,
+        "length": "2h 43m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(94K)",
+        "director": "Nishikant Kamat",
+        "starring": [
+            "Ajay Devgn",
+            "Shriya Saran",
+            "Tabu"
+        ]
+    },
+    {
+        "position": 244,
+        "title": "Mr",
+        "year": 1939,
+        "length": "2h 9m",
+        "age_rating": "Passed",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(121K)",
+        "director": "Frank Capra",
+        "starring": [
+            "James Stewart",
+            "Jean Arthur",
+            "Claude Rains"
+        ]
+    },
+    {
+        "position": 245,
+        "title": "The Passion of Joan of Arc",
+        "year": 1928,
+        "length": "1h 54m",
+        "age_rating": "Passed",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(61K)",
+        "director": "Carl Theodor Dreyer",
+        "starring": [
+            "Maria Falconetti",
+            "Eugene Silvain",
+            "Andr\u00e9 Berley"
+        ]
+    },
+    {
+        "position": 246,
+        "title": "The Kid",
+        "year": 1921,
+        "length": "1h 8m",
+        "age_rating": "Passed",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(135K)",
+        "director": "Charles Chaplin",
+        "starring": [
+            "Charles Chaplin",
+            "Edna Purviance",
+            "Jackie Coogan"
+        ]
+    },
+    {
+        "position": 247,
+        "title": "The Gold Rush",
+        "year": 1925,
+        "length": "1h 35m",
+        "age_rating": "Passed",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(118K)",
+        "director": "Charles Chaplin",
+        "starring": [
+            "Charles Chaplin",
+            "Mack Swain",
+            "Tom Murray"
+        ]
+    },
+    {
+        "position": 248,
+        "title": "The General",
+        "year": 1926,
+        "length": "1h 18m",
+        "age_rating": "Passed",
+        "star_rating": 8.1,
+        "number_of_ratings": "\u00a0(98K)",
+        "director": "Clyde Bruckman",
+        "starring": [
+            "Buster Keaton",
+            "Marion Mack",
+            "Glen Cavender"
+        ]
+    },
+    {
+        "position": 249,
+        "title": "Sherlock Jr.",
+        "year": 1924,
+        "length": "45m",
+        "age_rating": "Passed",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(57K)",
+        "director": "Buster Keaton",
+        "starring": [
+            "Buster Keaton",
+            "Kathryn McGuire",
+            "Joe Keaton"
+        ]
+    },
+    {
+        "position": 250,
+        "title": "My Father and My Son",
+        "year": 2005,
+        "length": "1h 52m",
+        "age_rating": "Not Rated",
+        "star_rating": 8.2,
+        "number_of_ratings": "\u00a0(93K)",
+        "director": "\u00c7agan Irmak",
+        "starring": [
+            "\u00c7etin Tekindor",
+            "Fikret Kuskan",
+            "H\u00fcmeyra"
+        ]
+    }
+]
